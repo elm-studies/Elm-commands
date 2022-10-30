@@ -1,4 +1,4 @@
-# Elm commnands
+# Elm commands
 
 **learn commands**
 
