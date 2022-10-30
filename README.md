@@ -1,4 +1,6 @@
-# Elm learning
+# Elm commnands
+
+**learn commands**
 
 ## Clone the repo & install:
 
